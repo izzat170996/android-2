@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vespa</string>
+    <string name="move_activity">Halaman Utama</string>
+    <string name="move_with_data">Halaman Detail</string>
+    <string name="page_about">Halaman About</string>
+    <string name="vespas_name">Nama Vespa</string>
+    <string name="detail">Detail</string>
+</resources>
